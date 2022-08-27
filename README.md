@@ -8,6 +8,9 @@ An example of what a modular fastAPI implementation may look like.
 
 ### Built With
 
+- FastAPI
+- Poetry
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -15,6 +18,9 @@ An example of what a modular fastAPI implementation may look like.
 ## Getting Started
 
 ### Prerequisites
+
+- Python 3.10+
+- Poetry 1.1.0+
 
 ### Installation
 
